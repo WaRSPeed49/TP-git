@@ -1,4 +1,6 @@
-###Application.bash-201x-Dugas###
-echo "Copyright Company-201x"
-echo "Build: 10:10"
-echo "version 1.1"
+### Application.bash - 201x - Dugas ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
