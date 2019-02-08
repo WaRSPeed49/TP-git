@@ -1,4 +1,7 @@
-###Application.bash-201x-Dugas###
-echo "Copyright IIA"
-echo "Build: 10:10"
-echo "version 1.2"
+### Application.bash - 201x - Dugas ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
+
